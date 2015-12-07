@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  Revolution
+
+  Created by Ramon Fernández Mir on 24/05/14.
+  Copyright (c) 2014 Tomorrow. All rights reserved.
+*/
+
+/* Tutorial next */
+"TUTORIAL_NEXT" = "Siguiente";
+
+/* Tutorial back */
+"TUTORIAL_BACK" = "Atrás";
+
+/* Tutorial play */
+"TUTORIAL_PLAY" = "Jugar";
+
+/* Tutorial 1 text */
+"TUTORIAL_1_TEXT" = "Sigue el color \nindicado arrastrando \nel dedo";
+
+/* Tutorial 2 text */
+"TUTORIAL_2_TEXT" = "Seguir el color \ncorrectamente te hará \nganar puntos y combos";
+
+/* Tutorial 3 text */
+"TUTORIAL_3_TEXT" = "Úsalos para ganar \nmás puntos y superar \na tus amigos!";
+
+/* Tutorial 4 text */
+"TUTORIAL_4_TEXT" = "Aquí puedes conseguir \nmás powerups y \ncomprar más puntos";
+
+/* Points title */
+"POINTS_TITLE" = "Compra";
+
+/* Points info */
+"POINTS_INFO" = "Consigue puntos para tener powerups!";
+
+/* After survey title */
+"AFTER_SURVEY_TITLE" = "Gracias por responder!";
+
+/* After survey message */
+"AFTER_SURVEY_MESSAGE" = "Disfruta de los puntos! ;)";
+
+/* After purchase title */
+"AFTER_PURCHASE_TITLE" = "Compra completada correctamente";
+
+/* After survey message */
+"AFTER_PURCHASE_MESSAGE" = "Disfruta de los puntos! ;)";
+
+/* Score label title */
+"SCORE_SCENE_TITLE" = "Puntuación";
+
+/* Total points */
+"TOTAL_POINTS" = "Puntos: %li";
+
+/* Best score */
+"BEST_SCORE" = "Récord!";
+
+/* Best socre saved */
+"BEST_SCORE_SAVED" = "Récord: %i";
+
+/* Share message */
+"SHARE_MESSAGE" = "He hecho %i puntos en #SpinRevolution. Descárgatelo e intenta superarme!";
+
+/* Survey alert title */
+"SURVEY_ALERT_TITLE" = "Ayúdanos!";
+
+/* Survey alert message */
+"SURVEY_ALERT_MESSAGE" = "Responda un rápido cuestionario de satisfacción y gane 15.000 puntos :)";
+
+/* Survey alert later */
+"SURVEY_ALERT_LATER" = "Después";
+
+/* Survey alert answer */
+"SURVEY_ALERT_ANSWER" = "Responder!";
+
+/* Touch */
+"TOUCH" = "Toca";
+
+/* Go */
+"GO" = "Gira!";
+
+/* Extra life */
+"EXTRA_LIFE" = "Vida \nextra";
+
+/* Extra life info */
+"EXTRA_LIFE_INFO" = "Recupera una vida perdida.";
+
+/* Life immunity */
+"LIFE_IMMUNITY" = "Sé \nimmune";
+
+/* Life immunity info */
+"LIFE_IMMUNITY_INFO" = "No pierdas vidas durante un tiempo.";
+
+/* Points combo */
+"POINTS_COMBO" = "Combo \nx5";
+
+/* Extra life info */
+"POINTS_COMBO_INFO" = "Multiplica por 5 los puntos conseguidos.";
+
+/* Buy */
+"BUY" = "COMPRA";
+
+/* Powerup price */
+"POWERUP_PRICE" = "%i puntos";
+
+/* Power up buy more */
+"HEADER_MORE" = "Toca para comprar más";
+
+/* Help */
+"HELP" = "Necesitas ayuda?";
